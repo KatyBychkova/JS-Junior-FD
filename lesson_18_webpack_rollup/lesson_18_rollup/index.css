@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(64, 28, 224);
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.js-image{
+    width: 200px;
+  
+}

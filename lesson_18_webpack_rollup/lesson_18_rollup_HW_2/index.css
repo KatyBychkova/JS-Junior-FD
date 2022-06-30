@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(64, 28, 224);
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.js-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.js-image{
+    width: 200px;
+  
+}
